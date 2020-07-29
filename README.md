@@ -67,9 +67,12 @@ MIT
 
 # Contact
 Huynh Thi Ly - ly.huynh190204@vnuk.edu.vn
+
 Ngo Duc Tai - tai.ngo190209@vnuk.edu.vn
 
-#Author
+# Author
 Huynh Thi Ly
+
 Hoang Van Hoan
+
 Ngo Duc Tai
