@@ -19,7 +19,9 @@ Scroll to the bottom and select either Windows x86-64 executable installer for 6
 
 
 Step 2 : Run the Installer
-Once you have chosen and downloaded an installer, simply run it by double-clicking on the downloaded file.
+Once you have chosen and downloaded an installer, simply run it by double-clicking on the downloaded file.A dialog should appear that looks something like this:
+
+
 
 
 FOR macOS/ MAC OS X :
