@@ -20,8 +20,9 @@ Scroll to the bottom and select either Windows x86-64 executable installer for 6
 
 Step 2 : Run the Installer
 Once you have chosen and downloaded an installer, simply run it by double-clicking on the downloaded file.A dialog should appear that looks something like this:
+![win_installer](https://user-images.githubusercontent.com/65527579/88822849-9aef0a00-d1ee-11ea-8e55-846f6ed633dd.png)
 
-
+Then just click Install Now. That should be all there is to it. A few minutes later you should have a working Python 3 installation on your system.
 
 
 FOR macOS/ MAC OS X :
