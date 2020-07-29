@@ -60,3 +60,16 @@ Assuming everything went well and you saw the output from Pip in your command pr
 
 # Usage
 Open the script in python, then it will show you the interface to choose
+![Ảnh chụp Màn hình 2020-07-29 lúc 4 52 59 CH](https://user-images.githubusercontent.com/65527579/88823262-118c0780-d1ef-11ea-941d-b5730c495679.png)
+
+# License
+MIT 
+
+# Contact
+Huynh Thi Ly - ly.huynh190204@vnuk.edu.vn
+Ngo Duc Tai - tai.ngo190209@vnuk.edu.vn
+
+#Author
+Huynh Thi Ly
+Hoang Van Hoan
+Ngo Duc Tai
