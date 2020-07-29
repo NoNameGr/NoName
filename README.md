@@ -7,11 +7,11 @@ Our team aims to develop games that are both entertaining and helping players pr
 Make sure your device has Anaconda-Navigator installed and has enabled jupyter notebook
 
 # Getting Started
-Prerequisites : 
+## Prerequisites : 
 Make sure your device has Python
 
-Installation : 
-FOR WINDOW : 
+## Installation : 
+### FOR WINDOW : 
 Step 1: Download the Python 3 Installer
 Open a browser window and navigate to the Download page for Windows at python.org.
 Underneath the heading at the top that says Python Releases for Windows, click on the link for the Latest Python 3 Release - Python 3.x.x. (As of this writing, the latest is Python 3.6.5.)
@@ -25,7 +25,7 @@ Once you have chosen and downloaded an installer, simply run it by double-clicki
 Then just click Install Now. That should be all there is to it. A few minutes later you should have a working Python 3 installation on your system.
 
 
-FOR macOS/ MAC OS X :
+### FOR macOS/ MAC OS X :
 Step 1: Install Homebrew (Part 1)
 To get started, you first want to install Homebrew:
 
