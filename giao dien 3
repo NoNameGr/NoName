@@ -1,0 +1,10 @@
+from tkinter import*
+
+frm = Tk()  
+
+lbName = Label(frm, text = "Nhấn vào Bắt đầu để chơi", font = ("Arial", 14, "bold"), fg = "green")
+lbName.pack()
+
+bntStart = Button(frm, text = "Bắt đầu", font = ("Arial", 14), fg = "red")
+bntStart.pack()
+frm.mainloop()
