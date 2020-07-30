@@ -47,6 +47,7 @@ Step 3: Install Python
 Once Homebrew has finished installing, return to your terminal and run the following command:
 
 $ brew install python3
+
 Note: When you copy this command, be sure you don’t include the $ character at the beginning. That’s just an indicator that this is a console command.
 
 This will download and install the latest version of Python. After the Homebrew brew install command finishes, Python 3 should be installed on your system.
